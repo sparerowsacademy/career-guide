@@ -4,7 +4,7 @@ Welcome to the Sparerows Academy's comprehensive guide to starting a career in c
 
 ## Table of Contents
 
-1. [Introduction](01-Introduction.md)
+1. [Introduction](Introduction.md)
 2. [Education and Certifications](02-Education-and-Certifications.md)
 3. [Skills and Competencies](03-Skills-and-Competencies.md)
 4. [Job Opportunities](04-Job-Opportunities.md)
