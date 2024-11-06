@@ -80,4 +80,4 @@ Cybersecurity is a field with immense potential for growth and learning. It's bo
 
 ---
 
-*Continue with the guide to learn more about the education and certifications needed for cybersecurity professionals in [02-Education-and-Certifications.md](02-Education-and-Certifications.md).*
+*Continue with the guide to learn more about the education and certifications needed for cybersecurity professionals in [02-Education-and-Certifications.md](Education-and-Certifications.md).*
