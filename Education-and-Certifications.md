@@ -108,8 +108,8 @@ Cybersecurity is a constantly evolving field, and ongoing learning is essential 
 
 ## Final Thoughts
 
-Pursuing education and certifications in cybersecurity is a rewarding journey that provides the knowledge and skills needed to enter this dynamic field. Stay committed, be curious, and continuously practice what you learn. The next chapter, [03-Technical-Skills.md](03-Technical-Skills.md), will cover the technical skills necessary for a career in cybersecurity, including programming, network security, and more.
+Pursuing education and certifications in cybersecurity is a rewarding journey that provides the knowledge and skills needed to enter this dynamic field. Stay committed, be curious, and continuously practice what you learn. The next chapter, [03-Technical-Skills.md](Technical-Skills.md), will cover the technical skills necessary for a career in cybersecurity, including programming, network security, and more.
 
 ---
 
-*Let’s dive deeper into technical skills and tools in [03-Technical-Skills.md](03-Technical-Skills.md).*
+*Let’s dive deeper into technical skills and tools in [03-Technical-Skills.md](Technical-Skills.md).*
