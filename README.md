@@ -1,6 +1,3 @@
-# career-guide
-A comprehensive guide to starting a career in cybersecurity.
-
 # Career Guide to Cybersecurity
 
 Welcome to the Sparerows Academy's comprehensive guide to starting a career in cybersecurity. This repository provides step-by-step information to help you navigate the exciting field of cybersecurity, from education and certifications to job opportunities and interview tips.
