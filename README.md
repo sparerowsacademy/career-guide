@@ -6,8 +6,8 @@ Welcome to the Sparerows Academy's comprehensive guide to starting a career in c
 
 1. [Introduction](Introduction.md)
 2. [Education and Certifications](Education-and-Certifications.md)
-3. [Skills and Competencies](Skills-and-Competencies.md)
-4. [Job Opportunities](Job-Opportunities.md)
+3. [Skills and Competencies](Technical-Skills.md)
+4. [Job Opportunities](Specializations.md)
 5. [Resume and Interview Tips](Resume-and-Interview-Tips.md)
 6. [Resources](resources/)
 
